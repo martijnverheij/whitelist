@@ -99,3 +99,5 @@ assets.prod.leanplum.com
 leanplum.com
 ns1.rtvkatwijk.nl
 ns2.rtvkatwijk.nl
+ggdtools.nl
+www.ggdtools.nl
