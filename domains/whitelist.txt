@@ -101,3 +101,5 @@ ns1.rtvkatwijk.nl
 ns2.rtvkatwijk.nl
 ggdtools.nl
 www.ggdtools.nl
+www.googleadservices.com
+googleadservices.com
