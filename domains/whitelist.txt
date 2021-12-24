@@ -107,3 +107,4 @@ googleadservices.com
 leaddyno.com
 self.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
+motorsport.tv
