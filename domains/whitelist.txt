@@ -109,3 +109,4 @@ self.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 motorsport.tv
 racingnews365.bbvms.com
+racingnews365.nl
